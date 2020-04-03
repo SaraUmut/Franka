@@ -135,8 +135,8 @@ source devel/setup.sh
     
     **All Done, congratulations! :)**
     
-    Now you can start controlling Franka robot, you can start by running the existing examples: 
-    "How to run Franka examples"
+    Now you can start controlling Franka robot. You can start by running the existing examples.
+    upcoming tutorial: "How to run Franka examples"
     
     
 **Useful commands**
