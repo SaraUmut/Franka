@@ -1,2 +1,2 @@
 # Franka
-Steps to set up your workstation to control the Franka Panda robot
+Franka Panda Robot Tutorial (set up your workstation and control your robot)
